@@ -1,0 +1,6 @@
+framework module Pods_TCMainProject {
+  umbrella header "Pods-TCMainProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

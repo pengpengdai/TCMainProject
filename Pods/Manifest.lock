@@ -1,0 +1,21 @@
+PODS:
+  - TCBaseModule (0.1.0)
+  - TCLogin (0.1.0)
+
+DEPENDENCIES:
+  - TCBaseModule (from `Lib/TCBaseModule`)
+  - TCLogin (from `Lib/TCLogin`)
+
+EXTERNAL SOURCES:
+  TCBaseModule:
+    :path: Lib/TCBaseModule
+  TCLogin:
+    :path: Lib/TCLogin
+
+SPEC CHECKSUMS:
+  TCBaseModule: 41f1cf9eae27d07559cb4bee665609936284e710
+  TCLogin: b79cfca8f4c6aaabdfc0818d513c1668d01420ef
+
+PODFILE CHECKSUM: e23fb44ee62b9bf357033de6bf0c2d1043d73005
+
+COCOAPODS: 1.8.0
